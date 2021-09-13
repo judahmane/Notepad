@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\bin\Debug\CSharpAppTesting.exe.config
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\bin\Debug\CSharpAppTesting.exe
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\bin\Debug\CSharpAppTesting.pdb
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\obj\Debug\CSharpAppTesting.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\obj\Debug\CSharpAppTesting.Form1.resources
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\obj\Debug\CSharpAppTesting.Properties.Resources.resources
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\obj\Debug\CSharpAppTesting.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\obj\Debug\CSharpAppTesting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\obj\Debug\CSharpAppTesting.exe
+C:\Users\User\source\repos\CSharpAppTesting\CSharpAppTesting\obj\Debug\CSharpAppTesting.pdb
