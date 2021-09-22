@@ -1,0 +1,12 @@
+Ok so basically the defintion should be re-determined to jounral.
+For some reason my self was in a short shock mood of getting this done quickly.
+Basically its mean't to be a journal so on.
+infinite notes page and it adds to the same note.
+
+//you can easily make a directory variable if you wanna give it a custom name.
+//for some reason I made this hard on myself.
+
+
+
+//also this is my first really only good code project I made.
+
